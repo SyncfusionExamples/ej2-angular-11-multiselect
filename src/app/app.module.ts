@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { DropDownListModule } from '@syncfusion/ej2-angular-dropdowns';
 import { FormsModule }   from '@angular/forms';
+import { MultiSelectAllModule } from '@syncfusion/ej2-angular-dropdowns';
 import { AppComponent } from './app.component';
 
 @NgModule({
@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule, DropDownListModule, FormsModule
+    BrowserModule, MultiSelectAllModule, FormsModule 
   ],
   providers: [],
   bootstrap: [AppComponent]
