@@ -1,5 +1,5 @@
 {
-  "name": "angular11-drop-down-app",
+  "name": "angular11-multi-select-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -19,8 +19,7 @@
     "@angular/platform-browser": "~11.2.4",
     "@angular/platform-browser-dynamic": "~11.2.4",
     "@angular/router": "~11.2.4",
-    "@syncfusion/ej2": "^18.4.46",
-    "@syncfusion/ej2-angular-dropdowns": "^18.4.46",
+    "@syncfusion/ej2-angular-dropdowns": "^18.4.47",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
